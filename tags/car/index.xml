@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Car on Race Car Design</title>
+    <link>https://jlumax.github.io/tags/car/</link>
+    <description>Recent content in Car on Race Car Design</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh_CN</language>
+    <copyright>All rights reserved - 2018</copyright>
+    <lastBuildDate>Sun, 18 Nov 2018 23:03:51 +0800</lastBuildDate>
+    
+	<atom:link href="https://jlumax.github.io/tags/car/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Race Car Design</title>
+      <link>https://jlumax.github.io/post/race-car-design/</link>
+      <pubDate>Sun, 18 Nov 2018 23:03:51 +0800</pubDate>
+      
+      <guid>https://jlumax.github.io/post/race-car-design/</guid>
+      <description>必须知道的概念 1.1一些必须理解的概念。
+ 赛车是一项竞技性非常强的运动，所以赛车设计的目的就是尽可能地提供一辆最佳的战车。为了在竞赛中占有优势，这些问题必须得到回答：
+  一辆赛车必须做什么？
+ 为了达到目标，一辆赛车的最佳架构是什么样的
+ 如何把一辆车调校的比竞争者更优
+  4.稳健？
+1.2赛车的元素 赛车有很多种形式，越野的，绕圈的等等。但总体上都有些共同点，就是在最短的时间内通过赛道。为了达到这个目标，就必须要做到：
+\1. 把车加速到最大可能速度
+\2. 制动减速度做到最大，是制动距离更短，从而可以更晚的使用制动
+\3. 在最短的时间内过弯，更重要的是以最大的可能速度出弯
+可见一辆赛车几乎不会有以恒定速度前进的时候。当然，一个有经验的车手会把上诉元素糅合到一个连贯的动作，出弯加速或者刹车入弯
+（一张赛道图和与之对应的速度曲线）
+摩擦圆
+F=μN
+但是又不是简单的线性关系，因此有了轮胎特性曲线。
+轮胎的附着极限是一辆赛车设计的起点，它将被用来决定底盘载荷的分配，制动系统、悬架参数、变速器设计等等方面，以及后期对整车平衡的调校。
+我们将会在加速、制动和过弯三种工况中对轮胎的载荷进行考察。
+整车质心是一个非常重要的概念，它的位置在静态中它关系到四个轮子的载荷分配，它的高度在动态中关系到侧倾角度和轮荷转移。</description>
+    </item>
+    
+  </channel>
+</rss>
