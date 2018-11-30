@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Kun&#39;s Workshop</title>
-    <link>https://jlumax.github.io/post/</link>
-    <description>Recent content in Posts on Kun&#39;s Workshop</description>
+    <title>Economics on Kun&#39;s Workshop</title>
+    <link>https://jlumax.github.io/tags/economics/</link>
+    <description>Recent content in Economics on Kun&#39;s Workshop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>All rights reserved - 2018</copyright>
     <lastBuildDate>Sun, 25 Nov 2018 17:32:57 +0800</lastBuildDate>
     
-	<atom:link href="https://jlumax.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jlumax.github.io/tags/economics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,17 +19,6 @@
       
       <guid>https://jlumax.github.io/post/mk-ten-principles/</guid>
       <description>&lt;p&gt;对于经济学初学者和爱好者来说，曼昆是入门学习时绕不过去的一位大师。尤其是他于1992年首次初版的《经济学原理》，内容以学生学习为导向，对阅读者来说极其友好，容易理解又津津有味，堪称最成功的经济学入门教材。目前最新中译本为第七版（2015年5月1日第一版）。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Welcome</title>
-      <link>https://jlumax.github.io/post/welcome/</link>
-      <pubDate>Mon, 19 Nov 2018 10:36:21 +0800</pubDate>
-      
-      <guid>https://jlumax.github.io/post/welcome/</guid>
-      <description>欢迎！  这是一个存放随笔的地方。
- 人总是感性的，每每夜深人静，默默思索稍有灵感，抑或读到一本好书深深共鸣时，总会想记录下这片刻激动。
-于是，这个小站就诞生了，用来放一些随笔，大概主要会关于汽车和经济，以及一些杂七杂八的有趣知识。</description>
     </item>
     
   </channel>
