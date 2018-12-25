@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>All rights reserved - 2018</copyright>
-    <lastBuildDate>Sun, 23 Dec 2018 22:37:45 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 24 Dec 2018 22:32:29 +0800</lastBuildDate>
     
 	<atom:link href="https://jlumax.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>经济学原理4-5篇摘要</title>
+      <link>https://jlumax.github.io/post/mankiw-part4-5/</link>
+      <pubDate>Mon, 24 Dec 2018 22:32:29 +0800</pubDate>
+      
+      <guid>https://jlumax.github.io/post/mankiw-part4-5/</guid>
+      <description>&lt;p&gt;曼昆经济学原理的的读书笔记，包含公共部门经济学、企业行为和产业组织。&lt;/p&gt;
+
+&lt;p&gt;主要设计概念有外部性，公共物品，成本，竞争，垄断，寡头垄断，垄断竞争等。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>经济学原理1-3篇摘要</title>
@@ -18,7 +29,9 @@
       <pubDate>Sun, 23 Dec 2018 22:37:45 +0800</pubDate>
       
       <guid>https://jlumax.github.io/post/mankiw-part1-3/</guid>
-      <description>&lt;p&gt;曼昆经济学原理的第1-3篇，包含导言、市场如何运行、市场和福利三大部分。&lt;/p&gt;</description>
+      <description>&lt;p&gt;曼昆经济学原理的的读书笔记，包含导言、市场和福利三大部分，是微观部分的前三篇。&lt;/p&gt;
+
+&lt;p&gt;主要设计概念有十大原理，模型假设，需求和供给，弹性，贸易，税收和市场福利等。&lt;/p&gt;</description>
     </item>
     
     <item>
