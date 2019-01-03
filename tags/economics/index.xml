@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>All rights reserved - 2019</copyright>
-    <lastBuildDate>Fri, 28 Dec 2018 14:20:36 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jan 2019 13:51:45 +0800</lastBuildDate>
     
 	<atom:link href="https://jlumax.github.io/tags/economics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>曼昆的经济学原理相关</title>
+      <link>https://jlumax.github.io/mankiw-princeples-navi/</link>
+      <pubDate>Thu, 03 Jan 2019 13:51:45 +0800</pubDate>
+      
+      <guid>https://jlumax.github.io/mankiw-princeples-navi/</guid>
+      <description>&lt;p&gt;几篇和曼昆经济学原理相关的内容放在这里做目录导航，点击标题即可进入阅读。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>经济学原理6-7篇摘要</title>
@@ -37,7 +46,7 @@
     <item>
       <title>经济学原理1-3篇摘要</title>
       <link>https://jlumax.github.io/post/mankiw-part1-3/</link>
-      <pubDate>Sun, 23 Dec 2018 22:37:45 +0800</pubDate>
+      <pubDate>Tue, 18 Dec 2018 22:37:45 +0800</pubDate>
       
       <guid>https://jlumax.github.io/post/mankiw-part1-3/</guid>
       <description>&lt;p&gt;曼昆经济学原理的的读书笔记，包含导言、市场和福利三大部分，是微观部分的前三篇。&lt;/p&gt;

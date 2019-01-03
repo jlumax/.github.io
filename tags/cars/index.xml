@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cars on Kun&#39;s Workshop</title>
+    <link>https://jlumax.github.io/tags/cars/</link>
+    <description>Recent content in Cars on Kun&#39;s Workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>All rights reserved - 2019</copyright>
+    <lastBuildDate>Thu, 03 Jan 2019 17:34:40 +0800</lastBuildDate>
+    
+	<atom:link href="https://jlumax.github.io/tags/cars/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Race Car Design 相关</title>
+      <link>https://jlumax.github.io/race-car-design-navi/</link>
+      <pubDate>Thu, 03 Jan 2019 17:34:40 +0800</pubDate>
+      
+      <guid>https://jlumax.github.io/race-car-design-navi/</guid>
+      <description>&lt;p&gt;赛车设计入门相关的几篇文章放在这里做目录导航。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
