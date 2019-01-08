@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samuelson on Kun&#39;s Workshop</title>
+    <link>https://jlumax.github.io/tags/samuelson/</link>
+    <description>Recent content in Samuelson on Kun&#39;s Workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>All rights reserved - 2019</copyright>
+    <lastBuildDate>Tue, 08 Jan 2019 17:24:23 +0800</lastBuildDate>
+    
+	<atom:link href="https://jlumax.github.io/tags/samuelson/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>萨缪尔森经济学的基本概念</title>
+      <link>https://jlumax.github.io/post/samuelson-part1/</link>
+      <pubDate>Tue, 08 Jan 2019 17:24:23 +0800</pubDate>
+      
+      <guid>https://jlumax.github.io/post/samuelson-part1/</guid>
+      <description>&lt;p&gt;保罗·萨缪尔森（Paul A.Samuelson）（1915-2009），1935年毕业于芝加哥大学，随后获得哈佛大学的硕士学位和博士学位，并一直在麻省理工学院任经济学教授，是麻省理工学院研究生部的创始人，是第一位获得诺贝尔经济学奖的美国人，被纽约时报誉为“20世纪最重要的经济学家”。他编写的《经济学》教材堪称世界最经典的经济学教材，2009年仙逝，教材定格在第19版。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>萨缪尔森经济学相关</title>
+      <link>https://jlumax.github.io/samuelson-navi/</link>
+      <pubDate>Tue, 08 Jan 2019 13:51:45 +0800</pubDate>
+      
+      <guid>https://jlumax.github.io/samuelson-navi/</guid>
+      <description>&lt;p&gt;几篇和萨缪尔森经济学相关的内容放在这里做目录导航，点击标题即可进入阅读。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

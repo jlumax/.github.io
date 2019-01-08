@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jlumax.github.io/post/samuelson-part1/</loc>
+    <lastmod>2019-01-08T17:24:23+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jlumax.github.io/samuelson-navi/</loc>
+    <lastmod>2019-01-08T13:51:45+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jlumax.github.io/race-car-design-navi/</loc>
     <lastmod>2019-01-03T17:34:40+08:00</lastmod>
   </url>
@@ -55,13 +65,13 @@
   
   <url>
     <loc>https://jlumax.github.io/tags/economics/</loc>
-    <lastmod>2019-01-03T13:51:45+08:00</lastmod>
+    <lastmod>2019-01-08T17:24:23+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jlumax.github.io/</loc>
-    <lastmod>2019-01-03T17:34:40+08:00</lastmod>
+    <lastmod>2019-01-08T17:24:23+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -73,7 +83,13 @@
   
   <url>
     <loc>https://jlumax.github.io/post/</loc>
-    <lastmod>2018-12-28T14:20:36+08:00</lastmod>
+    <lastmod>2019-01-08T17:24:23+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlumax.github.io/tags/samuelson/</loc>
+    <lastmod>2019-01-08T17:24:23+08:00</lastmod>
     <priority>0</priority>
   </url>
   
